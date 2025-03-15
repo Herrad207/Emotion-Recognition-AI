@@ -26,4 +26,4 @@ Viết một đoạn code mẫu kiểm tra TensorFlow/PyTorch hoạt động bì
 import tensorflow as tf
 print("GPU is", "available" if tf.config.list_physical_devices('GPU') else "NOT AVAILABLE")
 
-git clone <URL_repository>
+git clone https://github.com/Herrad207/Emotion-Recognition-AI
